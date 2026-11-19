@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="nfn23_config_drawNotificationBackground">false</bool>
+    <bool name="nfn23_config_clipNotificationsToOutline">true</bool>
+    <bool name="nfn23_config_showGroupNotificationBgWhenExpanded">true</bool>
+    <color name="nfn23_notification_material_background_media_default_color">#00000000</color>
+    <dimen name="nfn23_notification_divider_height">4dp</dimen>
+    <dimen name="nfn23_z_distance_between_notifications">4dp</dimen>
+    <dimen name="nfn23_notification_children_container_divider_height">2dp</dimen>
+    <item name="nfn23_notification_divider_alpha" format="float" type="dimen">0</item>
+</resources>

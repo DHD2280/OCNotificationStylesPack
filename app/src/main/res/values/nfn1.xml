@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="nfn1_config_drawNotificationBackground">false</bool>
+    <bool name="nfn1_config_clipNotificationsToOutline">true</bool>
+    <bool name="nfn1_config_showGroupNotificationBgWhenExpanded">true</bool>
+    <color name="nfn1_notification_material_background_media_default_color">#00000000</color>
+    <color name="nfn1_notification_guts_bg_color_compass">@android:color/background_dark</color>
+    <color name="nfn1_notification_material_background_click">#00000000</color>
+    <color name="nfn1_lockscreen_notification_compass_bg">#00000000</color>
+    <dimen name="nfn1_notification_divider_height">4dp</dimen>
+    <dimen name="nfn1_z_distance_between_notifications">4dp</dimen>
+    <dimen name="nfn1_notification_children_container_divider_height">2dp</dimen>
+    <item name="nfn1_notification_divider_alpha" format="float" type="dimen">0</item>
+</resources>

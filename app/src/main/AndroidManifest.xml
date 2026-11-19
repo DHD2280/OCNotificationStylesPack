@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <application
+        android:allowBackup="false"
+        android:hasCode="true"
+        android:icon="@android:drawable/sym_def_app_icon"
+        android:label="@string/app_name">
+
+        <meta-data
+            android:name="packauthor"
+            android:value="Oxygen Customizer" />
+
+        <activity
+            android:name=".NFN1"
+            android:exported="true"
+            android:label="@string/style_nfn1">
+            <intent-filter>
+                <action android:name="it.dhd.oxygencustomizer.notificationstyle" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name=".NFN2"
+            android:exported="true"
+            android:label="@string/style_nfn2">
+            <intent-filter>
+                <action android:name="it.dhd.oxygencustomizer.notificationstyle" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name=".NFN3"
+            android:exported="true"
+            android:label="@string/style_nfn3">
+            <intent-filter>
+                <action android:name="it.dhd.oxygencustomizer.notificationstyle" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name=".NFN4"
+            android:exported="true"
+            android:label="@string/style_nfn4">
+            <intent-filter>
+                <action android:name="it.dhd.oxygencustomizer.notificationstyle" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name=".NFN5"
+            android:exported="true"
+            android:label="@string/style_nfn5">
+            <intent-filter>
+                <action android:name="it.dhd.oxygencustomizer.notificationstyle" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name=".NFN6"
+            android:exported="true"
+            android:label="@string/style_nfn6">
+            <intent-filter>
+                <action android:name="it.dhd.oxygencustomizer.notificationstyle" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name=".NFN7"
+            android:exported="true"
+            android:label="@string/style_nfn7">
+            <intent-filter>
+                <action android:name="it.dhd.oxygencustomizer.notificationstyle" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name=".NFN8"
+            android:exported="true"
+            android:label="@string/style_nfn8">
+            <intent-filter>
+                <action android:name="it.dhd.oxygencustomizer.notificationstyle" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name=".NFN9"
+            android:exported="true"
+            android:label="@string/style_nfn9">
+            <intent-filter>
+                <action android:name="it.dhd.oxygencustomizer.notificationstyle" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name=".NFN10"
+            android:exported="true"
+            android:label="@string/style_nfn10">
+            <intent-filter>
+                <action android:name="it.dhd.oxygencustomizer.notificationstyle" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name=".NFN11"
+            android:exported="true"
+            android:label="@string/style_nfn11">
+            <intent-filter>
+                <action android:name="it.dhd.oxygencustomizer.notificationstyle" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name=".NFN12"
+            android:exported="true"
+            android:label="@string/style_nfn12">
+            <intent-filter>
+                <action android:name="it.dhd.oxygencustomizer.notificationstyle" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name=".NFN13"
+            android:exported="true"
+            android:label="@string/style_nfn13">
+            <intent-filter>
+                <action android:name="it.dhd.oxygencustomizer.notificationstyle" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name=".NFN14"
+            android:exported="true"
+            android:label="@string/style_nfn14">
+            <intent-filter>
+                <action android:name="it.dhd.oxygencustomizer.notificationstyle" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name=".NFN15"
+            android:exported="true"
+            android:label="@string/style_nfn15">
+            <intent-filter>
+                <action android:name="it.dhd.oxygencustomizer.notificationstyle" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name=".NFN16"
+            android:exported="true"
+            android:label="@string/style_nfn16">
+            <intent-filter>
+                <action android:name="it.dhd.oxygencustomizer.notificationstyle" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name=".NFN17"
+            android:exported="true"
+            android:label="@string/style_nfn17">
+            <intent-filter>
+                <action android:name="it.dhd.oxygencustomizer.notificationstyle" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name=".NFN18"
+            android:exported="true"
+            android:label="@string/style_nfn18">
+            <intent-filter>
+                <action android:name="it.dhd.oxygencustomizer.notificationstyle" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name=".NFN19"
+            android:exported="true"
+            android:label="@string/style_nfn19">
+            <intent-filter>
+                <action android:name="it.dhd.oxygencustomizer.notificationstyle" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name=".NFN20"
+            android:exported="true"
+            android:label="@string/style_nfn20">
+            <intent-filter>
+                <action android:name="it.dhd.oxygencustomizer.notificationstyle" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name=".NFN21"
+            android:exported="true"
+            android:label="@string/style_nfn21">
+            <intent-filter>
+                <action android:name="it.dhd.oxygencustomizer.notificationstyle" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name=".NFN22"
+            android:exported="true"
+            android:label="@string/style_nfn22">
+            <intent-filter>
+                <action android:name="it.dhd.oxygencustomizer.notificationstyle" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name=".NFN23"
+            android:exported="true"
+            android:label="@string/style_nfn23">
+            <intent-filter>
+                <action android:name="it.dhd.oxygencustomizer.notificationstyle" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+    </application>
+
+</manifest>

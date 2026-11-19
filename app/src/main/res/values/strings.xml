@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">OC Notification Styles</string>
+    <string name="style_nfn1">Monet</string>
+    <string name="style_nfn2">Layers</string>
+    <string name="style_nfn3">Thin Outline</string>
+    <string name="style_nfn4">Bottom Outline</string>
+    <string name="style_nfn5">Neumorph</string>
+    <string name="style_nfn6">Stack</string>
+    <string name="style_nfn7">Side Stack</string>
+    <string name="style_nfn8">Outline</string>
+    <string name="style_nfn9">Leafy Outline</string>
+    <string name="style_nfn10">Lighty</string>
+    <string name="style_nfn11">Lighty v2</string>
+    <string name="style_nfn12">Neumorph Outline</string>
+    <string name="style_nfn13">Cyberponk</string>
+    <string name="style_nfn14">Cyberponk v2</string>
+    <string name="style_nfn15">Thread Line</string>
+    <string name="style_nfn16">Faded</string>
+    <string name="style_nfn17">Dumbbell</string>
+    <string name="style_nfn18">Semi Transparent</string>
+    <string name="style_nfn19">Pitch Black</string>
+    <string name="style_nfn20">Duoline</string>
+    <string name="style_nfn21">iOS</string>
+    <string name="style_nfn22">Transparent</string>
+    <string name="style_nfn23">Thin Outline Transparent</string>
+</resources>

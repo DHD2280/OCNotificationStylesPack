@@ -1,0 +1,426 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="NFN1" translatable="false">
+        <item>drawable/coui_alert_dialog_background=nfn1_coui_alert_dialog_background</item>
+        <item>drawable/global_actions_lite_background=nfn1_global_actions_lite_background</item>
+        <item>drawable/global_actions_lite_button=nfn1_global_actions_lite_button</item>
+        <item>drawable/notif_footer_btn_background=nfn1_notif_footer_btn_background</item>
+        <item>drawable/notification_material_bg=nfn1_notification_material_bg</item>
+        <item>drawable/notification_material_bg_monet=nfn1_notification_material_bg_monet</item>
+        <item>bool/config_drawNotificationBackground=nfn1_config_drawNotificationBackground</item>
+        <item>bool/config_clipNotificationsToOutline=nfn1_config_clipNotificationsToOutline</item>
+        <item>bool/config_showGroupNotificationBgWhenExpanded=nfn1_config_showGroupNotificationBgWhenExpanded</item>
+        <item>color/notification_material_background_media_default_color=nfn1_notification_material_background_media_default_color</item>
+        <item>color/notification_guts_bg_color_compass=nfn1_notification_guts_bg_color_compass</item>
+        <item>color/notification_material_background_click=nfn1_notification_material_background_click</item>
+        <item>color/lockscreen_notification_compass_bg=nfn1_lockscreen_notification_compass_bg</item>
+        <item>dimen/notification_divider_height=nfn1_notification_divider_height</item>
+        <item>dimen/z_distance_between_notifications=nfn1_z_distance_between_notifications</item>
+        <item>dimen/notification_children_container_divider_height=nfn1_notification_children_container_divider_height</item>
+        <item>dimen/notification_divider_alpha=nfn1_notification_divider_alpha</item>
+        <item>dimen/notification_corner_radius=oc_notification_corner_radius</item>
+        <item>dimen/global_actions_corner_radius=oc_notification_corner_radius</item>
+    </string-array>
+
+    <string-array name="NFN2" translatable="false">
+        <item>drawable/coui_alert_dialog_background=nfn2_coui_alert_dialog_background</item>
+        <item>drawable/global_actions_lite_background=nfn2_global_actions_lite_background</item>
+        <item>drawable/global_actions_lite_button=nfn2_global_actions_lite_button</item>
+        <item>drawable/notif_footer_btn_background=nfn2_notif_footer_btn_background</item>
+        <item>drawable/notification_material_bg=nfn2_notification_material_bg</item>
+        <item>drawable/notification_material_bg_monet=nfn2_notification_material_bg_monet</item>
+        <item>bool/config_drawNotificationBackground=nfn2_config_drawNotificationBackground</item>
+        <item>bool/config_clipNotificationsToOutline=nfn2_config_clipNotificationsToOutline</item>
+        <item>bool/config_showGroupNotificationBgWhenExpanded=nfn2_config_showGroupNotificationBgWhenExpanded</item>
+        <item>dimen/notification_divider_height=nfn2_notification_divider_height</item>
+        <item>dimen/z_distance_between_notifications=nfn2_z_distance_between_notifications</item>
+        <item>dimen/notification_children_container_divider_height=nfn2_notification_children_container_divider_height</item>
+        <item>dimen/notification_divider_alpha=nfn2_notification_divider_alpha</item>
+        <item>dimen/notification_corner_radius=oc_notification_corner_radius</item>
+        <item>dimen/global_actions_corner_radius=oc_notification_corner_radius</item>
+    </string-array>
+
+    <string-array name="NFN3" translatable="false">
+        <item>drawable/coui_alert_dialog_background=nfn3_coui_alert_dialog_background</item>
+        <item>drawable/global_actions_lite_background=nfn3_global_actions_lite_background</item>
+        <item>drawable/global_actions_lite_button=nfn3_global_actions_lite_button</item>
+        <item>drawable/notif_footer_btn_background=nfn3_notif_footer_btn_background</item>
+        <item>drawable/notification_guts_bg=nfn3_notification_guts_bg</item>
+        <item>drawable/notification_material_bg=nfn3_notification_material_bg</item>
+        <item>drawable/notification_material_bg_monet=nfn3_notification_material_bg_monet</item>
+        <item>drawable/notification_settings_panel_background=nfn3_notification_settings_panel_background</item>
+        <item>bool/config_drawNotificationBackground=nfn3_config_drawNotificationBackground</item>
+        <item>bool/config_clipNotificationsToOutline=nfn3_config_clipNotificationsToOutline</item>
+        <item>bool/config_showGroupNotificationBgWhenExpanded=nfn3_config_showGroupNotificationBgWhenExpanded</item>
+        <item>color/notification_material_background_media_default_color=nfn3_notification_material_background_media_default_color</item>
+        <item>dimen/notification_divider_height=nfn3_notification_divider_height</item>
+        <item>dimen/z_distance_between_notifications=nfn3_z_distance_between_notifications</item>
+        <item>dimen/notification_children_container_divider_height=nfn3_notification_children_container_divider_height</item>
+        <item>dimen/notification_divider_alpha=nfn3_notification_divider_alpha</item>
+        <item>dimen/notification_corner_radius=oc_notification_corner_radius</item>
+        <item>dimen/global_actions_corner_radius=oc_notification_corner_radius</item>
+    </string-array>
+
+    <string-array name="NFN4" translatable="false">
+        <item>drawable/coui_alert_dialog_background=nfn4_coui_alert_dialog_background</item>
+        <item>drawable/global_actions_lite_background=nfn4_global_actions_lite_background</item>
+        <item>drawable/global_actions_lite_button=nfn4_global_actions_lite_button</item>
+        <item>drawable/notif_footer_btn_background=nfn4_notif_footer_btn_background</item>
+        <item>drawable/notification_material_bg=nfn4_notification_material_bg</item>
+        <item>drawable/notification_material_bg_monet=nfn4_notification_material_bg_monet</item>
+        <item>bool/config_drawNotificationBackground=nfn4_config_drawNotificationBackground</item>
+        <item>bool/config_clipNotificationsToOutline=nfn4_config_clipNotificationsToOutline</item>
+        <item>bool/config_showGroupNotificationBgWhenExpanded=nfn4_config_showGroupNotificationBgWhenExpanded</item>
+        <item>dimen/notification_divider_height=nfn4_notification_divider_height</item>
+        <item>dimen/z_distance_between_notifications=nfn4_z_distance_between_notifications</item>
+        <item>dimen/notification_children_container_divider_height=nfn4_notification_children_container_divider_height</item>
+        <item>dimen/notification_divider_alpha=nfn4_notification_divider_alpha</item>
+        <item>dimen/notification_corner_radius=oc_notification_corner_radius</item>
+        <item>dimen/global_actions_corner_radius=oc_notification_corner_radius</item>
+    </string-array>
+
+    <string-array name="NFN5" translatable="false">
+        <item>drawable/coui_alert_dialog_background=nfn5_coui_alert_dialog_background</item>
+        <item>drawable/global_actions_lite_background=nfn5_global_actions_lite_background</item>
+        <item>drawable/global_actions_lite_button=nfn5_global_actions_lite_button</item>
+        <item>drawable/notif_footer_btn_background=nfn5_notif_footer_btn_background</item>
+        <item>drawable/notification_material_bg=nfn5_notification_material_bg</item>
+        <item>drawable/notification_material_bg_monet=nfn5_notification_material_bg_monet</item>
+        <item>bool/config_drawNotificationBackground=nfn5_config_drawNotificationBackground</item>
+        <item>bool/config_clipNotificationsToOutline=nfn5_config_clipNotificationsToOutline</item>
+        <item>bool/config_showGroupNotificationBgWhenExpanded=nfn5_config_showGroupNotificationBgWhenExpanded</item>
+        <item>dimen/notification_divider_height=nfn5_notification_divider_height</item>
+        <item>dimen/z_distance_between_notifications=nfn5_z_distance_between_notifications</item>
+        <item>dimen/notification_children_container_divider_height=nfn5_notification_children_container_divider_height</item>
+        <item>dimen/notification_divider_alpha=nfn5_notification_divider_alpha</item>
+        <item>dimen/notification_corner_radius=oc_notification_corner_radius</item>
+        <item>dimen/global_actions_corner_radius=oc_notification_corner_radius</item>
+    </string-array>
+
+    <string-array name="NFN6" translatable="false">
+        <item>drawable/coui_alert_dialog_background=nfn6_coui_alert_dialog_background</item>
+        <item>drawable/global_actions_lite_background=nfn6_global_actions_lite_background</item>
+        <item>drawable/global_actions_lite_button=nfn6_global_actions_lite_button</item>
+        <item>drawable/notif_footer_btn_background=nfn6_notif_footer_btn_background</item>
+        <item>drawable/notification_material_bg=nfn6_notification_material_bg</item>
+        <item>drawable/notification_material_bg_monet=nfn6_notification_material_bg_monet</item>
+        <item>bool/config_drawNotificationBackground=nfn6_config_drawNotificationBackground</item>
+        <item>bool/config_clipNotificationsToOutline=nfn6_config_clipNotificationsToOutline</item>
+        <item>bool/config_showGroupNotificationBgWhenExpanded=nfn6_config_showGroupNotificationBgWhenExpanded</item>
+        <item>dimen/notification_divider_height=nfn6_notification_divider_height</item>
+        <item>dimen/z_distance_between_notifications=nfn6_z_distance_between_notifications</item>
+        <item>dimen/notification_children_container_divider_height=nfn6_notification_children_container_divider_height</item>
+        <item>dimen/notification_divider_alpha=nfn6_notification_divider_alpha</item>
+        <item>dimen/notification_corner_radius=oc_notification_corner_radius</item>
+        <item>dimen/global_actions_corner_radius=oc_notification_corner_radius</item>
+    </string-array>
+
+    <string-array name="NFN7" translatable="false">
+        <item>drawable/coui_alert_dialog_background=nfn7_coui_alert_dialog_background</item>
+        <item>drawable/global_actions_lite_background=nfn7_global_actions_lite_background</item>
+        <item>drawable/global_actions_lite_button=nfn7_global_actions_lite_button</item>
+        <item>drawable/notif_footer_btn_background=nfn7_notif_footer_btn_background</item>
+        <item>drawable/notification_material_bg=nfn7_notification_material_bg</item>
+        <item>drawable/notification_material_bg_monet=nfn7_notification_material_bg_monet</item>
+        <item>bool/config_drawNotificationBackground=nfn7_config_drawNotificationBackground</item>
+        <item>bool/config_clipNotificationsToOutline=nfn7_config_clipNotificationsToOutline</item>
+        <item>bool/config_showGroupNotificationBgWhenExpanded=nfn7_config_showGroupNotificationBgWhenExpanded</item>
+        <item>dimen/notification_divider_height=nfn7_notification_divider_height</item>
+        <item>dimen/z_distance_between_notifications=nfn7_z_distance_between_notifications</item>
+        <item>dimen/notification_children_container_divider_height=nfn7_notification_children_container_divider_height</item>
+        <item>dimen/notification_divider_alpha=nfn7_notification_divider_alpha</item>
+        <item>dimen/notification_corner_radius=oc_notification_corner_radius</item>
+        <item>dimen/global_actions_corner_radius=oc_notification_corner_radius</item>
+    </string-array>
+
+    <string-array name="NFN8" translatable="false">
+        <item>drawable/coui_alert_dialog_background=nfn8_coui_alert_dialog_background</item>
+        <item>drawable/global_actions_lite_background=nfn8_global_actions_lite_background</item>
+        <item>drawable/global_actions_lite_button=nfn8_global_actions_lite_button</item>
+        <item>drawable/notif_footer_btn_background=nfn8_notif_footer_btn_background</item>
+        <item>drawable/notification_material_bg=nfn8_notification_material_bg</item>
+        <item>drawable/notification_material_bg_monet=nfn8_notification_material_bg_monet</item>
+        <item>bool/config_drawNotificationBackground=nfn8_config_drawNotificationBackground</item>
+        <item>bool/config_clipNotificationsToOutline=nfn8_config_clipNotificationsToOutline</item>
+        <item>bool/config_showGroupNotificationBgWhenExpanded=nfn8_config_showGroupNotificationBgWhenExpanded</item>
+        <item>dimen/notification_divider_height=nfn8_notification_divider_height</item>
+        <item>dimen/z_distance_between_notifications=nfn8_z_distance_between_notifications</item>
+        <item>dimen/notification_children_container_divider_height=nfn8_notification_children_container_divider_height</item>
+        <item>dimen/notification_divider_alpha=nfn8_notification_divider_alpha</item>
+        <item>dimen/notification_corner_radius=oc_notification_corner_radius</item>
+        <item>dimen/global_actions_corner_radius=oc_notification_corner_radius</item>
+    </string-array>
+
+    <string-array name="NFN9" translatable="false">
+        <item>drawable/coui_alert_dialog_background=nfn9_coui_alert_dialog_background</item>
+        <item>drawable/global_actions_lite_background=nfn9_global_actions_lite_background</item>
+        <item>drawable/global_actions_lite_button=nfn9_global_actions_lite_button</item>
+        <item>drawable/notif_footer_btn_background=nfn9_notif_footer_btn_background</item>
+        <item>drawable/notification_material_bg=nfn9_notification_material_bg</item>
+        <item>drawable/notification_material_bg_monet=nfn9_notification_material_bg_monet</item>
+        <item>bool/config_drawNotificationBackground=nfn9_config_drawNotificationBackground</item>
+        <item>bool/config_clipNotificationsToOutline=nfn9_config_clipNotificationsToOutline</item>
+        <item>bool/config_showGroupNotificationBgWhenExpanded=nfn9_config_showGroupNotificationBgWhenExpanded</item>
+        <item>dimen/notification_divider_height=nfn9_notification_divider_height</item>
+        <item>dimen/z_distance_between_notifications=nfn9_z_distance_between_notifications</item>
+        <item>dimen/notification_children_container_divider_height=nfn9_notification_children_container_divider_height</item>
+        <item>dimen/notification_divider_alpha=nfn9_notification_divider_alpha</item>
+        <item>dimen/notification_corner_radius=oc_notification_corner_radius</item>
+        <item>dimen/global_actions_corner_radius=oc_notification_corner_radius</item>
+    </string-array>
+
+    <string-array name="NFN10" translatable="false">
+        <item>drawable/coui_alert_dialog_background=nfn10_coui_alert_dialog_background</item>
+        <item>drawable/global_actions_lite_background=nfn10_global_actions_lite_background</item>
+        <item>drawable/global_actions_lite_button=nfn10_global_actions_lite_button</item>
+        <item>drawable/notif_footer_btn_background=nfn10_notif_footer_btn_background</item>
+        <item>drawable/notification_material_bg=nfn10_notification_material_bg</item>
+        <item>drawable/notification_material_bg_monet=nfn10_notification_material_bg_monet</item>
+        <item>bool/config_drawNotificationBackground=nfn10_config_drawNotificationBackground</item>
+        <item>bool/config_clipNotificationsToOutline=nfn10_config_clipNotificationsToOutline</item>
+        <item>bool/config_showGroupNotificationBgWhenExpanded=nfn10_config_showGroupNotificationBgWhenExpanded</item>
+        <item>dimen/notification_divider_height=nfn10_notification_divider_height</item>
+        <item>dimen/z_distance_between_notifications=nfn10_z_distance_between_notifications</item>
+        <item>dimen/notification_children_container_divider_height=nfn10_notification_children_container_divider_height</item>
+        <item>dimen/notification_divider_alpha=nfn10_notification_divider_alpha</item>
+        <item>dimen/notification_corner_radius=oc_notification_corner_radius</item>
+        <item>dimen/global_actions_corner_radius=oc_notification_corner_radius</item>
+    </string-array>
+
+    <string-array name="NFN11" translatable="false">
+        <item>drawable/coui_alert_dialog_background=nfn11_coui_alert_dialog_background</item>
+        <item>drawable/global_actions_lite_background=nfn11_global_actions_lite_background</item>
+        <item>drawable/global_actions_lite_button=nfn11_global_actions_lite_button</item>
+        <item>drawable/notif_footer_btn_background=nfn11_notif_footer_btn_background</item>
+        <item>drawable/notification_material_bg=nfn11_notification_material_bg</item>
+        <item>drawable/notification_material_bg_monet=nfn11_notification_material_bg_monet</item>
+        <item>bool/config_drawNotificationBackground=nfn11_config_drawNotificationBackground</item>
+        <item>bool/config_clipNotificationsToOutline=nfn11_config_clipNotificationsToOutline</item>
+        <item>bool/config_showGroupNotificationBgWhenExpanded=nfn11_config_showGroupNotificationBgWhenExpanded</item>
+        <item>dimen/notification_divider_height=nfn11_notification_divider_height</item>
+        <item>dimen/z_distance_between_notifications=nfn11_z_distance_between_notifications</item>
+        <item>dimen/notification_children_container_divider_height=nfn11_notification_children_container_divider_height</item>
+        <item>dimen/notification_divider_alpha=nfn11_notification_divider_alpha</item>
+        <item>dimen/notification_corner_radius=oc_notification_corner_radius</item>
+        <item>dimen/global_actions_corner_radius=oc_notification_corner_radius</item>
+    </string-array>
+
+    <string-array name="NFN12" translatable="false">
+        <item>drawable/coui_alert_dialog_background=nfn12_coui_alert_dialog_background</item>
+        <item>drawable/global_actions_lite_background=nfn12_global_actions_lite_background</item>
+        <item>drawable/global_actions_lite_button=nfn12_global_actions_lite_button</item>
+        <item>drawable/notif_footer_btn_background=nfn12_notif_footer_btn_background</item>
+        <item>drawable/notification_material_bg=nfn12_notification_material_bg</item>
+        <item>drawable/notification_material_bg_monet=nfn12_notification_material_bg_monet</item>
+        <item>bool/config_drawNotificationBackground=nfn12_config_drawNotificationBackground</item>
+        <item>bool/config_clipNotificationsToOutline=nfn12_config_clipNotificationsToOutline</item>
+        <item>bool/config_showGroupNotificationBgWhenExpanded=nfn12_config_showGroupNotificationBgWhenExpanded</item>
+        <item>dimen/notification_divider_height=nfn12_notification_divider_height</item>
+        <item>dimen/z_distance_between_notifications=nfn12_z_distance_between_notifications</item>
+        <item>dimen/notification_children_container_divider_height=nfn12_notification_children_container_divider_height</item>
+        <item>dimen/notification_divider_alpha=nfn12_notification_divider_alpha</item>
+        <item>dimen/notification_corner_radius=oc_notification_corner_radius</item>
+        <item>dimen/global_actions_corner_radius=oc_notification_corner_radius</item>
+    </string-array>
+
+    <string-array name="NFN13" translatable="false">
+        <item>drawable/coui_alert_dialog_background=nfn13_coui_alert_dialog_background</item>
+        <item>drawable/global_actions_lite_background=nfn13_global_actions_lite_background</item>
+        <item>drawable/global_actions_lite_button=nfn13_global_actions_lite_button</item>
+        <item>drawable/notif_footer_btn_background=nfn13_notif_footer_btn_background</item>
+        <item>drawable/notification_material_bg=nfn13_notification_material_bg</item>
+        <item>drawable/notification_material_bg_monet=nfn13_notification_material_bg_monet</item>
+        <item>bool/config_drawNotificationBackground=nfn13_config_drawNotificationBackground</item>
+        <item>bool/config_clipNotificationsToOutline=nfn13_config_clipNotificationsToOutline</item>
+        <item>bool/config_showGroupNotificationBgWhenExpanded=nfn13_config_showGroupNotificationBgWhenExpanded</item>
+        <item>dimen/notification_divider_height=nfn13_notification_divider_height</item>
+        <item>dimen/z_distance_between_notifications=nfn13_z_distance_between_notifications</item>
+        <item>dimen/notification_children_container_divider_height=nfn13_notification_children_container_divider_height</item>
+        <item>dimen/notification_divider_alpha=nfn13_notification_divider_alpha</item>
+        <item>dimen/notification_corner_radius=oc_notification_corner_radius</item>
+        <item>dimen/global_actions_corner_radius=oc_notification_corner_radius</item>
+    </string-array>
+
+    <string-array name="NFN14" translatable="false">
+        <item>drawable/coui_alert_dialog_background=nfn14_coui_alert_dialog_background</item>
+        <item>drawable/global_actions_lite_background=nfn14_global_actions_lite_background</item>
+        <item>drawable/global_actions_lite_button=nfn14_global_actions_lite_button</item>
+        <item>drawable/notif_footer_btn_background=nfn14_notif_footer_btn_background</item>
+        <item>drawable/notification_material_bg=nfn14_notification_material_bg</item>
+        <item>drawable/notification_material_bg_monet=nfn14_notification_material_bg_monet</item>
+        <item>bool/config_drawNotificationBackground=nfn14_config_drawNotificationBackground</item>
+        <item>bool/config_clipNotificationsToOutline=nfn14_config_clipNotificationsToOutline</item>
+        <item>bool/config_showGroupNotificationBgWhenExpanded=nfn14_config_showGroupNotificationBgWhenExpanded</item>
+        <item>dimen/notification_divider_height=nfn14_notification_divider_height</item>
+        <item>dimen/z_distance_between_notifications=nfn14_z_distance_between_notifications</item>
+        <item>dimen/notification_children_container_divider_height=nfn14_notification_children_container_divider_height</item>
+        <item>dimen/notification_divider_alpha=nfn14_notification_divider_alpha</item>
+        <item>dimen/notification_corner_radius=oc_notification_corner_radius</item>
+        <item>dimen/global_actions_corner_radius=oc_notification_corner_radius</item>
+    </string-array>
+
+    <string-array name="NFN15" translatable="false">
+        <item>drawable/coui_alert_dialog_background=nfn15_coui_alert_dialog_background</item>
+        <item>drawable/global_actions_lite_background=nfn15_global_actions_lite_background</item>
+        <item>drawable/global_actions_lite_button=nfn15_global_actions_lite_button</item>
+        <item>drawable/notif_footer_btn_background=nfn15_notif_footer_btn_background</item>
+        <item>drawable/notification_material_bg=nfn15_notification_material_bg</item>
+        <item>drawable/notification_material_bg_monet=nfn15_notification_material_bg_monet</item>
+        <item>bool/config_drawNotificationBackground=nfn15_config_drawNotificationBackground</item>
+        <item>bool/config_clipNotificationsToOutline=nfn15_config_clipNotificationsToOutline</item>
+        <item>bool/config_showGroupNotificationBgWhenExpanded=nfn15_config_showGroupNotificationBgWhenExpanded</item>
+        <item>dimen/notification_divider_height=nfn15_notification_divider_height</item>
+        <item>dimen/z_distance_between_notifications=nfn15_z_distance_between_notifications</item>
+        <item>dimen/notification_children_container_divider_height=nfn15_notification_children_container_divider_height</item>
+        <item>dimen/notification_divider_alpha=nfn15_notification_divider_alpha</item>
+        <item>dimen/notification_corner_radius=oc_notification_corner_radius</item>
+        <item>dimen/global_actions_corner_radius=oc_notification_corner_radius</item>
+    </string-array>
+
+    <string-array name="NFN16" translatable="false">
+        <item>drawable/coui_alert_dialog_background=nfn16_coui_alert_dialog_background</item>
+        <item>drawable/global_actions_lite_background=nfn16_global_actions_lite_background</item>
+        <item>drawable/global_actions_lite_button=nfn16_global_actions_lite_button</item>
+        <item>drawable/notif_footer_btn_background=nfn16_notif_footer_btn_background</item>
+        <item>drawable/notification_material_bg=nfn16_notification_material_bg</item>
+        <item>drawable/notification_material_bg_monet=nfn16_notification_material_bg_monet</item>
+        <item>bool/config_drawNotificationBackground=nfn16_config_drawNotificationBackground</item>
+        <item>bool/config_clipNotificationsToOutline=nfn16_config_clipNotificationsToOutline</item>
+        <item>bool/config_showGroupNotificationBgWhenExpanded=nfn16_config_showGroupNotificationBgWhenExpanded</item>
+        <item>dimen/notification_divider_height=nfn16_notification_divider_height</item>
+        <item>dimen/z_distance_between_notifications=nfn16_z_distance_between_notifications</item>
+        <item>dimen/notification_children_container_divider_height=nfn16_notification_children_container_divider_height</item>
+        <item>dimen/notification_divider_alpha=nfn16_notification_divider_alpha</item>
+        <item>dimen/notification_corner_radius=oc_notification_corner_radius</item>
+        <item>dimen/global_actions_corner_radius=oc_notification_corner_radius</item>
+    </string-array>
+
+    <string-array name="NFN17" translatable="false">
+        <item>drawable/coui_alert_dialog_background=nfn17_coui_alert_dialog_background</item>
+        <item>drawable/global_actions_lite_background=nfn17_global_actions_lite_background</item>
+        <item>drawable/global_actions_lite_button=nfn17_global_actions_lite_button</item>
+        <item>drawable/notif_footer_btn_background=nfn17_notif_footer_btn_background</item>
+        <item>drawable/notification_material_bg=nfn17_notification_material_bg</item>
+        <item>drawable/notification_material_bg_monet=nfn17_notification_material_bg_monet</item>
+        <item>bool/config_drawNotificationBackground=nfn17_config_drawNotificationBackground</item>
+        <item>bool/config_clipNotificationsToOutline=nfn17_config_clipNotificationsToOutline</item>
+        <item>bool/config_showGroupNotificationBgWhenExpanded=nfn17_config_showGroupNotificationBgWhenExpanded</item>
+        <item>dimen/notification_divider_height=nfn17_notification_divider_height</item>
+        <item>dimen/z_distance_between_notifications=nfn17_z_distance_between_notifications</item>
+        <item>dimen/notification_children_container_divider_height=nfn17_notification_children_container_divider_height</item>
+        <item>dimen/notification_divider_alpha=nfn17_notification_divider_alpha</item>
+        <item>dimen/notification_corner_radius=oc_notification_corner_radius</item>
+        <item>dimen/global_actions_corner_radius=oc_notification_corner_radius</item>
+    </string-array>
+
+    <string-array name="NFN18" translatable="false">
+        <item>drawable/color_background_alpha=nfn18_color_background_alpha</item>
+        <item>drawable/coui_alert_dialog_background=nfn18_coui_alert_dialog_background</item>
+        <item>drawable/global_actions_lite_background=nfn18_global_actions_lite_background</item>
+        <item>drawable/global_actions_lite_button=nfn18_global_actions_lite_button</item>
+        <item>drawable/notif_footer_btn_background=nfn18_notif_footer_btn_background</item>
+        <item>drawable/notification_material_bg=nfn18_notification_material_bg</item>
+        <item>drawable/notification_material_bg_monet=nfn18_notification_material_bg_monet</item>
+        <item>bool/config_drawNotificationBackground=nfn18_config_drawNotificationBackground</item>
+        <item>bool/config_clipNotificationsToOutline=nfn18_config_clipNotificationsToOutline</item>
+        <item>bool/config_showGroupNotificationBgWhenExpanded=nfn18_config_showGroupNotificationBgWhenExpanded</item>
+        <item>dimen/notification_divider_height=nfn18_notification_divider_height</item>
+        <item>dimen/z_distance_between_notifications=nfn18_z_distance_between_notifications</item>
+        <item>dimen/notification_children_container_divider_height=nfn18_notification_children_container_divider_height</item>
+        <item>dimen/notification_divider_alpha=nfn18_notification_divider_alpha</item>
+        <item>dimen/notification_corner_radius=oc_notification_corner_radius</item>
+        <item>dimen/global_actions_corner_radius=oc_notification_corner_radius</item>
+    </string-array>
+
+    <string-array name="NFN19" translatable="false">
+        <item>drawable/coui_alert_dialog_background=nfn19_coui_alert_dialog_background</item>
+        <item>drawable/global_actions_lite_background=nfn19_global_actions_lite_background</item>
+        <item>drawable/global_actions_lite_button=nfn19_global_actions_lite_button</item>
+        <item>drawable/notif_footer_btn_background=nfn19_notif_footer_btn_background</item>
+        <item>drawable/notification_material_bg=nfn19_notification_material_bg</item>
+        <item>drawable/notification_material_bg_monet=nfn19_notification_material_bg_monet</item>
+        <item>bool/config_drawNotificationBackground=nfn19_config_drawNotificationBackground</item>
+        <item>bool/config_clipNotificationsToOutline=nfn19_config_clipNotificationsToOutline</item>
+        <item>bool/config_showGroupNotificationBgWhenExpanded=nfn19_config_showGroupNotificationBgWhenExpanded</item>
+        <item>dimen/notification_divider_height=nfn19_notification_divider_height</item>
+        <item>dimen/z_distance_between_notifications=nfn19_z_distance_between_notifications</item>
+        <item>dimen/notification_children_container_divider_height=nfn19_notification_children_container_divider_height</item>
+        <item>dimen/notification_divider_alpha=nfn19_notification_divider_alpha</item>
+        <item>dimen/notification_corner_radius=oc_notification_corner_radius</item>
+        <item>dimen/global_actions_corner_radius=oc_notification_corner_radius</item>
+    </string-array>
+
+    <string-array name="NFN20" translatable="false">
+        <item>drawable/coui_alert_dialog_background=nfn20_coui_alert_dialog_background</item>
+        <item>drawable/global_actions_lite_background=nfn20_global_actions_lite_background</item>
+        <item>drawable/global_actions_lite_button=nfn20_global_actions_lite_button</item>
+        <item>drawable/notif_footer_btn_background=nfn20_notif_footer_btn_background</item>
+        <item>drawable/notification_material_bg=nfn20_notification_material_bg</item>
+        <item>drawable/notification_material_bg_monet=nfn20_notification_material_bg_monet</item>
+        <item>bool/config_drawNotificationBackground=nfn20_config_drawNotificationBackground</item>
+        <item>bool/config_clipNotificationsToOutline=nfn20_config_clipNotificationsToOutline</item>
+        <item>bool/config_showGroupNotificationBgWhenExpanded=nfn20_config_showGroupNotificationBgWhenExpanded</item>
+        <item>dimen/notification_divider_height=nfn20_notification_divider_height</item>
+        <item>dimen/z_distance_between_notifications=nfn20_z_distance_between_notifications</item>
+        <item>dimen/notification_children_container_divider_height=nfn20_notification_children_container_divider_height</item>
+        <item>dimen/notification_divider_alpha=nfn20_notification_divider_alpha</item>
+        <item>dimen/notification_corner_radius=oc_notification_corner_radius</item>
+        <item>dimen/global_actions_corner_radius=oc_notification_corner_radius</item>
+    </string-array>
+
+    <string-array name="NFN21" translatable="false">
+        <item>drawable/coui_alert_dialog_background=nfn21_coui_alert_dialog_background</item>
+        <item>drawable/global_actions_lite_background=nfn21_global_actions_lite_background</item>
+        <item>drawable/global_actions_lite_button=nfn21_global_actions_lite_button</item>
+        <item>drawable/notif_footer_btn_background=nfn21_notif_footer_btn_background</item>
+        <item>drawable/notification_material_bg=nfn21_notification_material_bg</item>
+        <item>drawable/notification_material_bg_monet=nfn21_notification_material_bg_monet</item>
+        <item>bool/config_drawNotificationBackground=nfn21_config_drawNotificationBackground</item>
+        <item>bool/config_clipNotificationsToOutline=nfn21_config_clipNotificationsToOutline</item>
+        <item>bool/config_showGroupNotificationBgWhenExpanded=nfn21_config_showGroupNotificationBgWhenExpanded</item>
+        <item>dimen/notification_divider_height=nfn21_notification_divider_height</item>
+        <item>dimen/z_distance_between_notifications=nfn21_z_distance_between_notifications</item>
+        <item>dimen/notification_children_container_divider_height=nfn21_notification_children_container_divider_height</item>
+        <item>dimen/notification_divider_alpha=nfn21_notification_divider_alpha</item>
+        <item>dimen/notification_corner_radius=oc_notification_corner_radius</item>
+        <item>dimen/global_actions_corner_radius=oc_notification_corner_radius</item>
+    </string-array>
+
+    <string-array name="NFN22" translatable="false">
+        <item>drawable/coui_alert_dialog_background=nfn22_coui_alert_dialog_background</item>
+        <item>drawable/global_actions_lite_background=nfn22_global_actions_lite_background</item>
+        <item>drawable/global_actions_lite_button=nfn22_global_actions_lite_button</item>
+        <item>drawable/notif_footer_btn_background=nfn22_notif_footer_btn_background</item>
+        <item>drawable/notification_material_bg=nfn22_notification_material_bg</item>
+        <item>drawable/notification_material_bg_monet=nfn22_notification_material_bg_monet</item>
+        <item>bool/config_drawNotificationBackground=nfn22_config_drawNotificationBackground</item>
+        <item>bool/config_clipNotificationsToOutline=nfn22_config_clipNotificationsToOutline</item>
+        <item>bool/config_showGroupNotificationBgWhenExpanded=nfn22_config_showGroupNotificationBgWhenExpanded</item>
+        <item>color/notification_material_background_media_default_color=nfn22_notification_material_background_media_default_color</item>
+        <item>dimen/notification_divider_height=nfn22_notification_divider_height</item>
+        <item>dimen/z_distance_between_notifications=nfn22_z_distance_between_notifications</item>
+        <item>dimen/notification_children_container_divider_height=nfn22_notification_children_container_divider_height</item>
+        <item>dimen/notification_divider_alpha=nfn22_notification_divider_alpha</item>
+        <item>dimen/notification_corner_radius=oc_notification_corner_radius</item>
+        <item>dimen/global_actions_corner_radius=oc_notification_corner_radius</item>
+    </string-array>
+
+    <string-array name="NFN23" translatable="false">
+        <item>drawable/coui_alert_dialog_background=nfn23_coui_alert_dialog_background</item>
+        <item>drawable/global_actions_lite_background=nfn23_global_actions_lite_background</item>
+        <item>drawable/global_actions_lite_button=nfn23_global_actions_lite_button</item>
+        <item>drawable/notif_footer_btn_background=nfn23_notif_footer_btn_background</item>
+        <item>drawable/notification_material_bg=nfn23_notification_material_bg</item>
+        <item>drawable/notification_material_bg_monet=nfn23_notification_material_bg_monet</item>
+        <item>bool/config_drawNotificationBackground=nfn23_config_drawNotificationBackground</item>
+        <item>bool/config_clipNotificationsToOutline=nfn23_config_clipNotificationsToOutline</item>
+        <item>bool/config_showGroupNotificationBgWhenExpanded=nfn23_config_showGroupNotificationBgWhenExpanded</item>
+        <item>color/notification_material_background_media_default_color=nfn23_notification_material_background_media_default_color</item>
+        <item>dimen/notification_divider_height=nfn23_notification_divider_height</item>
+        <item>dimen/z_distance_between_notifications=nfn23_z_distance_between_notifications</item>
+        <item>dimen/notification_children_container_divider_height=nfn23_notification_children_container_divider_height</item>
+        <item>dimen/notification_divider_alpha=nfn23_notification_divider_alpha</item>
+        <item>dimen/notification_corner_radius=oc_notification_corner_radius</item>
+        <item>dimen/global_actions_corner_radius=oc_notification_corner_radius</item>
+    </string-array>
+</resources>

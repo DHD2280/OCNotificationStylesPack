@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="oc_radius_top">28dp</dimen>
+    <dimen name="oc_radius_right">26dp</dimen>
+    <dimen name="oc_radius_left">24dp</dimen>
+    <dimen name="oc_radius_bottom">22dp</dimen>
+    <dimen name="oc_notification_corner_radius">28dp</dimen>
+</resources>
